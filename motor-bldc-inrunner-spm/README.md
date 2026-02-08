@@ -23,6 +23,24 @@ To visualize the internal structure, winding layout, and assembly sequence of th
 
 > **Click the image above to watch the animation.**
 
+### ⚡ Electromagnetic Finite Element Analysis (FEA) - ANSYS Maxwell
+
+To validate the electromechanical performance, a **2D Transient Magnetic Analysis** was conducted using ANSYS Maxwell. This simulation verifies the magnetic flux path, core saturation levels, and torque production capability under load.
+
+| Analysis Parameter | Value / Condition | Observation |
+| :--- | :--- | :--- |
+| **Simulation Type** | Transient 2D | 1/2 Symmetry Model |
+| **Rotational Speed** | 1593 RPM | Rated Speed Operation |
+| **Max Flux Density ($B_{max}$)** | ~2.2 Tesla | Saturation localized at tooth tips (Red zones) |
+| **Stator Yoke Flux** | ~1.3 - 1.5 Tesla | Within optimal linear region (Green/Yellow zones) |
+
+#### 🎥 Magnetic Flux Distribution Animation
+The visual below displays the **Magnetic Flux Density ($B$)** distribution across the stator core and rotor magnets.
+
+[![Watch the Exploded View Animation](https://img.youtube.com/vi/-LHAmMvmeAM.jpg)](https://www.youtube.com/watch?v=-LHAmMvmeAM)
+
+> **Visualization:** Transient check of flux lines and density at 1592 RPM. **Click the image above to watch the full simulation.**
+
 ---
 
 ### End Shields
