@@ -35,7 +35,7 @@ To validate the electromechanical performance, a **2D Transient Magnetic Analysi
 #### 🎥 Magnetic Flux Distribution Animation
 The visual below displays the **Magnetic Flux Density ($B$)** distribution across the stator core and rotor magnets.
 
-[![Watch the Exploded View Animation](https://img.youtube.com/vi/-LHAmMvmeAM.jpg)](https://www.youtube.com/watch?v=-LHAmMvmeAM)
+[![Watch the Exploded View Animation](https://i.ytimg.com/vi/-LHAmMvmeAM/hqdefault.jpg)](https://www.youtube.com/watch?v=-LHAmMvmeAM)
 
 > **Visualization:** Transient check of flux lines and density at 1592 RPM. **Click the image above to watch the full simulation.**
 
