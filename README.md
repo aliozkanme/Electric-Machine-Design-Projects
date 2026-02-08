@@ -1,5 +1,6 @@
 <p align="center">
-  <img height="400" src="General-View.png">
+  <img height="70" src="logo_ansys.png" alt="Matlab Simulink Logo" style="margin-right: 10px;">
+  <img height="80" src="logo_solidworks.png" alt="Python Logo">
 </p>
 
 <h1 align="center"> ⚙️ Electric Machine Design Projects</h1>
