@@ -19,7 +19,7 @@ This section features high-precision motor assemblies engineered from scratch, s
 ### 🎥 Exploded View Animation
 To visualize the internal structure, winding layout, and assembly sequence of the motor, you can watch the detailed exploded view animation on YouTube.
 
-[![Watch the Exploded View Animation](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Watch the Exploded View Animation](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=kZ_DtLG9tV0)
 
 > **Click the image above to watch the animation.**
 
