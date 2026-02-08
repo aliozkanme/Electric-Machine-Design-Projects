@@ -30,8 +30,6 @@ To validate the electromechanical performance, a **2D Transient Magnetic Analysi
 | Analysis Parameter | Value / Condition | Observation |
 | :--- | :--- | :--- |
 | **Simulation Type** | Transient 2D | 1/2 Symmetry Model |
-| **Rotational Speed** | 1593 RPM | Rated Speed Operation |
-| **Max Flux Density ($B_{max}$)** | ~2.2 Tesla | Saturation localized at tooth tips (Red zones) |
 | **Stator Yoke Flux** | ~1.3 - 1.5 Tesla | Within optimal linear region (Green/Yellow zones) |
 
 #### 🎥 Magnetic Flux Distribution Animation
